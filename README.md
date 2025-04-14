@@ -36,6 +36,7 @@
 [![Static Badge](https://img.shields.io/badge/DCGAN-blue?style=flat&logo=python&logoColor=white)](https://github.com/sanepunk/DCGAN)
 [![Static Badge](https://img.shields.io/badge/ViT-blue?style=flat&logo=python&logoColor=white)](https://github.com/sanepunk/ViT)
 [![Static Badge](https://img.shields.io/badge/jackofalltrades-blue?style=flat&logo=python&logoColor=white)](https://github.com/lazy-punk/jackofalltrades)
+[![PyPI Downloads](https://static.pepy.tech/badge/jackofalltrades)](https://pepy.tech/projects/jackofalltrades)
 
 ---
 
